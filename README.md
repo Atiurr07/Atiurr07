@@ -1,33 +1,8 @@
 <!-- Banner -->
- <!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b1f,100:1fddff&height=200&section=header&text=Hi%20There,%20I'm%20Atiurr%20Rahman%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
--->
-
-<!-- Banner -->
- <!-- <p align="center" style="background-color:#0d1117; padding: 30px; border-radius: 10px;">
-  <span style="font-size: 40px; color: #ffffff; font-weight: bold;">
-    Hi There, I'm Atiurr Rahman 👋
-  </span>
-</p>
--->
-
-<!-- Animated Gradient Banner -->
-  <!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/Atiurr07/assets/main/animated-banner.svg" alt="Hi There, I'm Atiurr Rahman 👋" />
-</p>
--->
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1fddff,100:ff4b1f&height=200&section=header&text=Hi%20There,%20I'm%20Atiurr%20Rahman%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Atiurr07/assets/main/animated-banner.svg" alt="Hi There, I'm Atiurr Rahman 👋">
-</p>
-
-
 
 ---
 
