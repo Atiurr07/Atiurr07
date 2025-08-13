@@ -9,7 +9,7 @@
 ## 🌟 About Me
 - 🎓 B.Tech CSE Student at GIET, Odisha (2022–2026)
 - 📌 Currently working on: `AI-Powered Quality Control in Pharmaceutical Manufacturing`
-- 🌐 **My Portfolio:** [View Live](https://atiurr07.github.io/portfolio/) 
+- 🌐 **My Portfolio:** [View Live](https://atiurr07.github.io/Atiurr-s_Portfolio_Websites-/)
 - 💼 Internship Experience:
   - AI & ML Internship at **Eisystem Technology**
   - Python Developer Intern at **PathwayxIQ**
