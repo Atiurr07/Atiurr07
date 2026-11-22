@@ -9,13 +9,13 @@
 ## 🌟 About Me
 - 🎓 B.Tech CSE Student at GIET, Odisha (2022–2026)
 - 📌 Currently working on: `AI-Powered Quality Control in Pharmaceutical Manufacturing`
-- 🌐 **My Portfolio:** [View Live](https://atiurr07.github.io/Atiurr-s_Portfolio_Websites-/)
+- 🌐 **My Portfolio:** [View Live](https://my-3-d-portfolio-nine-blush.vercel.app/)  
 - 💼 Internship Experience:
   - AI & ML Internship at **Eisystem Technology**
   - Python Developer Intern at **PathwayxIQ**
 - 📜 Certified in **Generative AI Models**, **AI & ML**, and more
 - 📫 Reach me at: **rahmanatiurr4@gmail.com**
-- 📄 [📥 Download My Resume](https://i.postimg.cc/VkjP6mDj/Atiurr-s-resume25-A.png)
+- 📄 [📥 Download My Resume](https://linkjar.cc/d9d97254/)
 
 ---
 
